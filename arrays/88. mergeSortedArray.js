@@ -56,4 +56,5 @@ merge([1,2,3,0,0,0], 3, [2,5,6], 3)
  *
  * so don't be scared to use sort method
  * sometimes quicksort beats any algorithm
- * especially if we have little amount of data:)*/
+ * especially if we have little amount of data:)
+ * */
